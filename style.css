@@ -1,0 +1,100 @@
+
+body {
+  background-color: darkslategrey;
+}
+
+.buttonStyle {
+  display: flex;
+  justify-content: center;
+}
+
+.buttonStyle2 {
+  display: flex;
+  justify-content: center;
+}
+
+.bg-color {
+  background-color: rgb(73, 71, 71);
+}
+
+h1 {
+  text-align: center;
+}
+
+h5 {
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: center;
+  font-size: 1.3rem;
+  line-height: 1cm;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+.img-fluid {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  background-color: gray;
+}
+
+.footer-cols {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  text-align: left;
+  font-size: 14px;
+
+}
+
+a {
+  text-decoration-line: none;
+  color: white;
+}
+
+.copyright {
+  text-align: center;
+  background-color: gray;
+}
+
+.footer1 {
+  text-align: center;
+  background-color: rgb(41, 40, 40);
+}
+
+li {
+  color: white;
+}
+
+.col-md-6 {
+  width: 100%;
+}
+
+.gift {
+  float: right;
+  width: 50%;
+  padding-right: 50px;
+}
+
+.row {
+  background-color: blanchedalmond;
+}
+
+.bg {
+  background-color: coral;
+}
